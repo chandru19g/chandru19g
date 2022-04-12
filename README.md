@@ -36,6 +36,11 @@ I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in
 <a href="https://github.com/chandru19g">
   <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a> &nbsp;&nbsp;&nbsp;
+  
+ <a href="https://www.buymeacoffee.com/chandru19g">
+  <img align="center" alt="Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" />
+</a> &nbsp;&nbsp;&nbsp;
+ 
 </p>
 
 <br>
