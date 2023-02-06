@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 
 
-I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒 and Software Engineer Intern at Tectra Technologies Llc Chennai.
+I am a Passionate Flutter Mobile Application Developer, NodeJS developer with mongoDB and expressJs and a Software Engineer who's working @ SourceTrace Systems, Coimbatore.
 
-🔭 I’m currently learning to build Flutter Android and IOS Mobile Application
+🔭 I’m currently working on Flutter Android and IOS Mobile Application.
 
-<!-- 🌱 I’m currently learning and working on Woo-Commerce Integeration -->
+🌱 I’m currently learning on NodeJs Backend Development.
 
 📫 How to reach me chandru1918g@gmail.com
 
