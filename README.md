@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-I am a Passionate Flutter Mobile Application Developer, NodeJS developer with mongoDB and expressJs and a Software Engineer who's working @ SourceTrace Systems, Coimbatore.
+I am a Passionate Flutter Mobile Application Developer, NodeJS developer with mongoDB and expressJs and a Software Engineer who's working @Zethic Technologies LLP, Bangalore, Karnataka.
 
 🔭 I’m currently working on Flutter Android and IOS Mobile Application.
 
