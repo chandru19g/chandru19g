@@ -69,15 +69,15 @@ I am a passionate Flutter Mobile Application Developer, Node.js developer with M
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chandru-g-156a831b1/" style="text-decoration: none;">
-    <img align="center" alt="LinkedIn" width="60px" height="50px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" alt="LinkedIn" width="80px" height="50px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/chandru19g" style="text-decoration: none;">
-    <img align="center" alt="GitHub" width="60px" height="50px" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img align="center" alt="GitHub" width="80px" height="50px" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.buymeacoffee.com/chandru19g" style="text-decoration: none;">
-    <img align="center" alt="Buy Me a Coffee" width="60px" height="50px" src="https://img.shields.io/badge/buy%20me%20a%20coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img align="center" alt="Buy Me a Coffee" width="80px" height="50px" src="https://img.shields.io/badge/buy%20me%20a%20coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
