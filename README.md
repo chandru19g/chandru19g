@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ### Hello World! This is [Chandru](https://chandruportfolio.netlify.app/) 👋 
 
-I am a Passionate Flutter Mobile Application Developer, NodeJS developer with mongoDB and expressJs and a Software Engineer who's working @Zethic Technologies LLP, Bangalore, Karnataka.
+I am a passionate Flutter Mobile Application Developer, Node.js developer with MongoDB and Express.js, and a Software Engineer working at Zethic Technologies LLP, Bangalore, Karnataka.
 
-🔭 I’m currently working on Flutter Android and IOS Mobile Application.
+🔭 I’m currently working on Flutter Android and iOS mobile applications.
 
-🌱 I’m currently learning on NodeJs Backend Development.
+🌱 I’m currently learning Node.js backend development.
 
-📫 How to reach me chandru1918g@gmail.com
+📫 How to reach me: chandru1918g@gmail.com
 
 ### Social
 
@@ -49,5 +49,6 @@ I am a Passionate Flutter Mobile Application Developer, NodeJS developer with mo
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
   </a>
 </p>
+
 
 
