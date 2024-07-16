@@ -28,15 +28,15 @@ I am a Passionate Flutter Mobile Application Developer, NodeJS developer with mo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chandru-g-156a831b1/">
-  <img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:#0A66C2;" />
+  <img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:#fff;" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/chandru19g">
-  <img align="center" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="color:#181717;" />
+  <img align="center" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="color:#fff;" />
 </a> &nbsp;&nbsp;&nbsp;
   
  <a href="https://www.buymeacoffee.com/chandru19g">
-  <img align="center" alt="Buy Me a Coffee" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" style="color:#FFDD00;" />
+  <img align="center" alt="Buy Me a Coffee" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" style="color:#fff;" />
 </a> &nbsp;&nbsp;&nbsp;
  
 </p>
