@@ -37,9 +37,11 @@ Here are some ideas to get you started:
 
 I am a passionate Flutter Mobile Application Developer, Node.js developer with MongoDB and Express.js, and a Software Engineer working at Zethic Technologies LLP, Bangalore, Karnataka.
 
-🔭 I’m currently working on Flutter Android and iOS mobile applications.
+🔭 I’m currently working on Flutter Android and iOS mobile applications, focusing on creating seamless user experiences and robust application architectures.
 
-🌱 I’m currently learning Node.js backend development.
+🌱 I’m currently learning Node.js backend development to expand my skills in building scalable server-side applications and integrating complex backend logic with mobile frontends.
+
+💼 At Zethic Technologies, I contribute to developing and maintaining cutting-edge mobile applications that meet industry standards and client requirements.
 
 📫 How to reach me: chandru1918g@gmail.com
 
