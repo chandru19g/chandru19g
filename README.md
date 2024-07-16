@@ -11,6 +11,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+---
+
+### 🚀 Projects
+
+- **[QR Code Generator](https://github.com/chandru19g/qr-code-generator):** A dynamic QR code generator with customizable options.
+- **[Portfolio Website](https://github.com/chandru19g/portfolio-website):** My personal portfolio showcasing my skills and projects.
+- **[Chat Application](https://github.com/chandru19g/chat-application):** A real-time chat application built with Flutter and Node.js.
+
+---
+
+### 📚 Blog Posts
+
+- **[Getting Started with Flutter](https://chandruportfolio.netlify.app/blog/getting-started-with-flutter):** A beginner's guide to Flutter development.
+- **[Building REST APIs with Node.js and Express](https://chandruportfolio.netlify.app/blog/building-rest-apis-with-nodejs):** Step-by-step tutorial on creating RESTful APIs.
+- **[Understanding State Management in Flutter](https://chandruportfolio.netlify.app/blog/understanding-state-management-in-flutter):** A deep dive into state management techniques in Flutter.
+
+---
+
 -->
 
 ### Hello World! This is [Chandru](https://chandruportfolio.netlify.app/) 👋 
@@ -45,37 +65,19 @@ I am a passionate Flutter Mobile Application Developer, Node.js developer with M
   <img src="https://github-readme-stats.vercel.app/api?username=chandru19g&show_icons=true&theme=radical" alt="Chandru's GitHub stats" />
 </p>
 
----
-
-### 🚀 Projects
-
-- **[QR Code Generator](https://github.com/chandru19g/qr-code-generator):** A dynamic QR code generator with customizable options.
-- **[Portfolio Website](https://github.com/chandru19g/portfolio-website):** My personal portfolio showcasing my skills and projects.
-- **[Chat Application](https://github.com/chandru19g/chat-application):** A real-time chat application built with Flutter and Node.js.
-
----
-
-### 📚 Blog Posts
-
-- **[Getting Started with Flutter](https://chandruportfolio.netlify.app/blog/getting-started-with-flutter):** A beginner's guide to Flutter development.
-- **[Building REST APIs with Node.js and Express](https://chandruportfolio.netlify.app/blog/building-rest-apis-with-nodejs):** Step-by-step tutorial on creating RESTful APIs.
-- **[Understanding State Management in Flutter](https://chandruportfolio.netlify.app/blog/understanding-state-management-in-flutter):** A deep dive into state management techniques in Flutter.
-
----
-
 ### 💬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chandru-g-156a831b1/" style="text-decoration: none;">
-    <img align="center" alt="LinkedIn" width="32px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" alt="LinkedIn" width="32px" height="50px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/chandru19g" style="text-decoration: none;">
-    <img align="center" alt="GitHub" width="32px" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img align="center" alt="GitHub" width="32px" height="50px" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.buymeacoffee.com/chandru19g" style="text-decoration: none;">
-    <img align="center" alt="Buy Me a Coffee" width="32px" src="https://img.shields.io/badge/buy%20me%20a%20coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img align="center" alt="Buy Me a Coffee" width="32px" height="50px" src="https://img.shields.io/badge/buy%20me%20a%20coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
