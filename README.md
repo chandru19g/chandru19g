@@ -7,7 +7,7 @@
 I build mobile apps and the systems behind them — from Flutter frontends to Laravel &
 Node.js backends. I like shipping complete products, end to end.
 
-📍 Based in Bangalore, India &nbsp;·&nbsp; ✍️ Sharing dev life as **[@chandru.codes](https://instagram.com/chandru.codes)**
+📍 Based in Bangalore, India
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://chandruportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandru-g-156a831b1/)
@@ -22,7 +22,7 @@ Node.js backends. I like shipping complete products, end to end.
 ### 🚀 What I'm building
 
 - **HashFame** — a creator & influencer marketing platform I built end-to-end with a small team.
-- A handful of side projects across mobile and web, plus dev content on **[@chandru.codes](https://instagram.com/chandru.codes)**.
+- A handful of side projects across mobile and web, plus dev content on Instagram [@chandru.codes](https://instagram.com/chandru.codes).
 
 I care about clean architecture, mobile API security, and making apps that feel good to use.
 
@@ -64,12 +64,10 @@ I care about clean architecture, mobile API security, and making apps that feel 
 
 <div align="center">
 
-![Chandru's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandru19g&theme=gruvbox)
+![Followers](https://img.shields.io/github/followers/chandru19g?style=for-the-badge&logo=github&label=Followers&labelColor=282828&color=fabd2f)
+![Profile Views](https://komarev.com/ghpvc/?username=chandru19g&style=for-the-badge&label=Profile+Views&color=fabd2f)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chandru19g&theme=gruvbox&hide_border=true)
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandru19g&theme=gruvbox)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandru19g&theme=gruvbox)
 
 </div>
 
@@ -90,7 +88,5 @@ If you're into Flutter, Laravel, or building products solo/small-team, let's tal
 <div align="center">
 
 ⭐️ Show some ❤️ by starring a few repos!
-
-<img src="https://komarev.com/ghpvc/?username=chandru19g&style=flat-square&color=blue" alt="profile views" />
 
 </div>
