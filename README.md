@@ -7,11 +7,12 @@
 I build mobile apps and the systems behind them — from Flutter frontends to Laravel &
 Node.js backends. I like shipping complete products, end to end.
 
-📍 Based in India &nbsp;·&nbsp; ✍️ Sharing dev life as **[@chandru.codes](https://instagram.com/chandru.codes)**
+📍 Based in Bangalore, India &nbsp;·&nbsp; ✍️ Sharing dev life as **[@chandru.codes](https://instagram.com/chandru.codes)**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://chandruportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandru-g-156a831b1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chandru.codes)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPq2wLil98hrpcQ4XErpSsA)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandru1918g@gmail.com)
 
 </div>
@@ -20,9 +21,8 @@ Node.js backends. I like shipping complete products, end to end.
 
 ### 🚀 What I'm building
 
-- **HashFame** — a creator & influencer marketing platform I built end-to-end with a small team (Flutter + Laravel).
-- **Beeline Cards** — taking an invitation-cards business online (Node.js, Express, Prisma, PostgreSQL, Flutter).
-- **[@chandru.codes](https://instagram.com/chandru.codes)** — Flutter, Laravel & developer life on Instagram, with a YouTube channel on the way.
+- **HashFame** — a creator & influencer marketing platform I built end-to-end with a small team.
+- A handful of side projects across mobile and web, plus dev content on **[@chandru.codes](https://instagram.com/chandru.codes)**.
 
 I care about clean architecture, mobile API security, and making apps that feel good to use.
 
@@ -64,11 +64,12 @@ I care about clean architecture, mobile API security, and making apps that feel 
 
 <div align="center">
 
-![Chandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandru19g&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)
+![Chandru's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandru19g&theme=gruvbox)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chandru19g&theme=gruvbox&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandru19g&layout=compact&theme=gruvbox&hide_border=true&langs_count=8)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandru19g&theme=gruvbox)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandru19g&theme=gruvbox)
 
 </div>
 
@@ -80,6 +81,7 @@ If you're into Flutter, Laravel, or building products solo/small-team, let's tal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandru-g-156a831b1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chandru.codes)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPq2wLil98hrpcQ4XErpSsA)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://chandruportfolio.netlify.app/)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/chandru19g)
 
